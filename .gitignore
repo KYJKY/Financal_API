@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /Financal_API/secret.json
+/Financal_API/appsettings.json
